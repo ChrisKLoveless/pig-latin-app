@@ -20,5 +20,5 @@ function findFirstVowelPosition(str) {
     }
 }
 
-//console.log(findFirstVowelPosition('cat'))
+//test area
 console.log(pigLatin(''))
